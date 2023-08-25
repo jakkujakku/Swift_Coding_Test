@@ -26,6 +26,7 @@
 		4E51788C2A95971B007350D0 /* CodingTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E51788F2A95971B007350D0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4E5178962A95973B007350D0 /* 소인수분해.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "소인수분해.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7311642A982B1C00D8C371 /* 특정문자 제거하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "특정문자 제거하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4ED9E2302A96DCF50057AC75 /* 짝수 홀수 개수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "짝수 홀수 개수.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -60,8 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				4E51788F2A95971B007350D0 /* main.swift */,
-				4ED9E2302A96DCF50057AC75 /* 짝수 홀수 개수.playground */,
 				4E5178962A95973B007350D0 /* 소인수분해.playground */,
+				4ED9E2302A96DCF50057AC75 /* 짝수 홀수 개수.playground */,
+				4E7311642A982B1C00D8C371 /* 특정문자 제거하기.playground */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
