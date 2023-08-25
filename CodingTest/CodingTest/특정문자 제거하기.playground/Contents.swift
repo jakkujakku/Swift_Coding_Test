@@ -35,3 +35,8 @@ print(resultOfSolution)
  2. 입출력 예 #2
  "BCBdbe" 에서 "B"를 모두 제거한 "Cdbe"를 return합니다.
  */
+
+// 나의 문제 풀이
+// 1. 특정 문자를 제거 하기 위해 해당 문자열을 전체 반복
+// 2. letter과 맞는 구문 찾기 위해 -> if문 활용
+// 3. 일치하지 않는 구문만 answer에 추가 후 출력
