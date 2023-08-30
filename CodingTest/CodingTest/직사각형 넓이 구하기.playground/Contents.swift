@@ -42,6 +42,4 @@ func solution(_ dots: [[Int]]) -> Int {
 let result = solution([[1, 1], [2, 1], [2, 2], [1, 2]])
 // let result = solution([[-1, -1], [1, 1], [1, -1], [-1, 1]])
 
-// [[x1, y1], [x2, y2], [x3, y3], [x4, y4]]
-// [x1, y1], [x2, y2] * [x3, y3], [x4, y4]
-// [x2-x1, y2-y1] * [x4-x3, y4-y3]
+// x좌표 최대값 - x좌표 최솟값 * y좌표 최대값 - y좌표 최솟값
