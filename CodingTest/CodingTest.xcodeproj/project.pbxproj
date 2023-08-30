@@ -35,6 +35,8 @@
 		4E51788C2A95971B007350D0 /* CodingTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E51788F2A95971B007350D0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4E5178962A95973B007350D0 /* 소인수분해.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "소인수분해.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E6138AC2A9EC6A1003A2B37 /* 머쓱이보다 키 큰 사람.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "머쓱이보다 키 큰 사람.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E6138AD2A9EC7BA003A2B37 /* 직사각형 넓이 구하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "직사각형 넓이 구하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4E655D1D2A99A59F0057E575 /* 가위 바위 보.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "가위 바위 보.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4E7311642A982B1C00D8C371 /* 특정문자 제거하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "특정문자 제거하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4ED9E2302A96DCF50057AC75 /* 짝수 홀수 개수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "짝수 홀수 개수.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -86,6 +88,8 @@
 				4E1550802A9D788000C8A500 /* 배열의 유사도.playground */,
 				4E1550812A9D792C00C8A500 /* 숫자 찾기.playground */,
 				4E1550822A9D7BEE00C8A500 /* 문자열 정렬하기 - 2.playground */,
+				4E6138AC2A9EC6A1003A2B37 /* 머쓱이보다 키 큰 사람.playground */,
+				4E6138AD2A9EC7BA003A2B37 /* 직사각형 넓이 구하기.playground */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
