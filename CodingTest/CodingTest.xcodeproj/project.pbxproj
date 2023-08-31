@@ -39,6 +39,8 @@
 		4E6138AD2A9EC7BA003A2B37 /* 직사각형 넓이 구하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "직사각형 넓이 구하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4E655D1D2A99A59F0057E575 /* 가위 바위 보.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "가위 바위 보.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4E7311642A982B1C00D8C371 /* 특정문자 제거하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "특정문자 제거하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7A14F72AA014BF005FCD9C /* 이진수 더하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "이진수 더하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7A14F82AA03341005FCD9C /* 연속된 수의 합.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "연속된 수의 합.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4ED9E2302A96DCF50057AC75 /* 짝수 홀수 개수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "짝수 홀수 개수.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4EDA79D42A9D05EE00CC9D81 /* 문자열 정렬하기 - 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "문자열 정렬하기 - 1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -90,6 +92,8 @@
 				4E1550822A9D7BEE00C8A500 /* 문자열 정렬하기 - 2.playground */,
 				4E6138AC2A9EC6A1003A2B37 /* 머쓱이보다 키 큰 사람.playground */,
 				4E6138AD2A9EC7BA003A2B37 /* 직사각형 넓이 구하기.playground */,
+				4E7A14F72AA014BF005FCD9C /* 이진수 더하기.playground */,
+				4E7A14F82AA03341005FCD9C /* 연속된 수의 합.playground */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
