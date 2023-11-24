@@ -1,5 +1,8 @@
 # Swift_Coding_Test
 Swift Coding Test
+## 변경사항
+- 1 ~ 23 : 스위프트
+- 24 ~ : 파이썬
 ## 목차
 1. 소인수 분해
 2. 짝수 홀수 개수
